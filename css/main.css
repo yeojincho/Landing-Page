@@ -290,4 +290,8 @@
     height: 350px;
     float: none;
   }
+
+  .footer {
+    padding: 100px 0;
+  }
 }
