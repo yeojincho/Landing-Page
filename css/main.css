@@ -88,6 +88,7 @@
 .section-service {
   background-color: #4F61C0;
   color: #fff;
+  padding: 100px 100px;
 }
 
 
@@ -257,10 +258,6 @@
   .section-main-banner {
     height: 750px;
     padding: 100px 100px 0;
-  }
-
-  .section-service {
-    padding: 100px 100px;
   }
 
   .main-wrapper {
